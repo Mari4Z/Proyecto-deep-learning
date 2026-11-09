@@ -1,0 +1,13 @@
+tipo,texto,probabilidad,predice racista
+"inglés, neutral",the weather is nice today and we are going to the beach,0.009693284,False
+"inglés, neutral",my neighbours from bolivia invited us for dinner,0.1381103,False
+"inglés, racista",all immigrants are criminals and should go back to their country,0.009137358,False
+"portugués, neutral",hoje o tempo está bom e vamos à praia com a família,0.009216772,False
+solo emojis,😂😂😂,0.02111154,False
+solo emojis,🔥🔥👏👏,0.02111154,False
+sin sentido,asdkj qwe zxcvb,0.009020799,False
+sin sentido,lorem ipsum dolor sit amet,0.009665508,False
+números y signos,1234567,0.007466942,False
+números y signos,?!?! ...,0.014497453,False
+solo marcas,usuario url,0.012086472,False
+solo marcas,usuario usuario usuario,0.011398814,False

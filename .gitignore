@@ -1,0 +1,11 @@
+# Pesos del modelo final (420 MB): el cuaderno los regenera al ejecutar la sección 8.1
+salidas/modelo_final/
+
+# Datos de terceros o derivados de ellos: ver README.md para obtenerlos
+insumos/datos_local.json
+insumos/corpus_articulo.csv
+salidas/datos_test.json
+
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/

@@ -1,0 +1,81 @@
+tipo,esperado,grupo,plantilla,texto,prob,predice racista,acierta,atención al grupo
+racismo explícito,1,bolivianos,"los {g} son una plaga, que se vuelvan a su país","los bolivianos son una plaga, que se vuelvan a su país",0.9724659323692322,True,True,0.14916732162237167
+racismo explícito,1,paraguayos,"los {g} son una plaga, que se vuelvan a su país","los paraguayos son una plaga, que se vuelvan a su país",0.9650123715400696,True,True,0.15587326139211655
+racismo explícito,1,peruanos,"los {g} son una plaga, que se vuelvan a su país","los peruanos son una plaga, que se vuelvan a su país",0.9711506962776184,True,True,0.18371416628360748
+racismo explícito,1,venezolanos,"los {g} son una plaga, que se vuelvan a su país","los venezolanos son una plaga, que se vuelvan a su país",0.967991828918457,True,True,0.1863308697938919
+racismo explícito,1,colombianos,"los {g} son una plaga, que se vuelvan a su país","los colombianos son una plaga, que se vuelvan a su país",0.9700807332992554,True,True,0.09193122386932373
+racismo explícito,1,chinos,"los {g} son una plaga, que se vuelvan a su país","los chinos son una plaga, que se vuelvan a su país",0.9692691564559937,True,True,0.0764041543006897
+racismo explícito,1,argentinos,"los {g} son una plaga, que se vuelvan a su país","los argentinos son una plaga, que se vuelvan a su país",0.9133790731430054,True,True,0.0633559376001358
+racismo explícito,1,bolivianos,"hay que echar a todos los {g}, vienen a robar y a vivir de planes","hay que echar a todos los bolivianos, vienen a robar y a vivir de planes",0.9642735123634338,True,True,0.19870172441005707
+racismo explícito,1,paraguayos,"hay que echar a todos los {g}, vienen a robar y a vivir de planes","hay que echar a todos los paraguayos, vienen a robar y a vivir de planes",0.9568324685096741,True,True,0.19167359918355942
+racismo explícito,1,peruanos,"hay que echar a todos los {g}, vienen a robar y a vivir de planes","hay que echar a todos los peruanos, vienen a robar y a vivir de planes",0.9607961177825928,True,True,0.2107059806585312
+racismo explícito,1,venezolanos,"hay que echar a todos los {g}, vienen a robar y a vivir de planes","hay que echar a todos los venezolanos, vienen a robar y a vivir de planes",0.9490454792976379,True,True,0.23100610077381134
+racismo explícito,1,colombianos,"hay que echar a todos los {g}, vienen a robar y a vivir de planes","hay que echar a todos los colombianos, vienen a robar y a vivir de planes",0.9574346542358398,True,True,0.14203530550003052
+racismo explícito,1,chinos,"hay que echar a todos los {g}, vienen a robar y a vivir de planes","hay que echar a todos los chinos, vienen a robar y a vivir de planes",0.9586495757102966,True,True,0.09966286271810532
+racismo explícito,1,argentinos,"hay que echar a todos los {g}, vienen a robar y a vivir de planes","hay que echar a todos los argentinos, vienen a robar y a vivir de planes",0.6190259456634521,False,False,0.10323550552129745
+racismo explícito,1,bolivianos,los {g} son todos sucios y delincuentes,los bolivianos son todos sucios y delincuentes,0.9695651531219482,True,True,0.21261921525001526
+racismo explícito,1,paraguayos,los {g} son todos sucios y delincuentes,los paraguayos son todos sucios y delincuentes,0.9662367701530457,True,True,0.1775273084640503
+racismo explícito,1,peruanos,los {g} son todos sucios y delincuentes,los peruanos son todos sucios y delincuentes,0.9678090810775757,True,True,0.23768339306116104
+racismo explícito,1,venezolanos,los {g} son todos sucios y delincuentes,los venezolanos son todos sucios y delincuentes,0.9656333923339844,True,True,0.2185414731502533
+racismo explícito,1,colombianos,los {g} son todos sucios y delincuentes,los colombianos son todos sucios y delincuentes,0.965025007724762,True,True,0.12311026453971863
+racismo explícito,1,chinos,los {g} son todos sucios y delincuentes,los chinos son todos sucios y delincuentes,0.9629483819007874,True,True,0.1292436569929123
+racismo explícito,1,argentinos,los {g} son todos sucios y delincuentes,los argentinos son todos sucios y delincuentes,0.954895555973053,True,True,0.11685667186975479
+mención neutral,0,bolivianos,los {g} que viven en mi barrio organizaron una feria de comida,los bolivianos que viven en mi barrio organizaron una feria de comida,0.9366526007652283,True,False,0.22068329900503159
+mención neutral,0,paraguayos,los {g} que viven en mi barrio organizaron una feria de comida,los paraguayos que viven en mi barrio organizaron una feria de comida,0.9121225476264954,True,False,0.19327252730727196
+mención neutral,0,peruanos,los {g} que viven en mi barrio organizaron una feria de comida,los peruanos que viven en mi barrio organizaron una feria de comida,0.9299870133399963,True,False,0.265581451356411
+mención neutral,0,venezolanos,los {g} que viven en mi barrio organizaron una feria de comida,los venezolanos que viven en mi barrio organizaron una feria de comida,0.912354052066803,True,False,0.26326871663331985
+mención neutral,0,colombianos,los {g} que viven en mi barrio organizaron una feria de comida,los colombianos que viven en mi barrio organizaron una feria de comida,0.9103014469146729,True,False,0.2341867834329605
+mención neutral,0,chinos,los {g} que viven en mi barrio organizaron una feria de comida,los chinos que viven en mi barrio organizaron una feria de comida,0.9263818860054016,True,False,0.17085719108581543
+mención neutral,0,argentinos,los {g} que viven en mi barrio organizaron una feria de comida,los argentinos que viven en mi barrio organizaron una feria de comida,0.06346198916435242,False,True,0.0894472599029541
+mención neutral,0,bolivianos,este año llegaron muchos turistas {g} a la ciudad,este año llegaron muchos turistas bolivianos a la ciudad,0.9101550579071045,True,False,0.19136418402194977
+mención neutral,0,paraguayos,este año llegaron muchos turistas {g} a la ciudad,este año llegaron muchos turistas paraguayos a la ciudad,0.8270570039749146,True,False,0.1660904958844185
+mención neutral,0,peruanos,este año llegaron muchos turistas {g} a la ciudad,este año llegaron muchos turistas peruanos a la ciudad,0.8839349150657654,True,False,0.20432300865650177
+mención neutral,0,venezolanos,este año llegaron muchos turistas {g} a la ciudad,este año llegaron muchos turistas venezolanos a la ciudad,0.7582683563232422,True,False,0.17703552916646004
+mención neutral,0,colombianos,este año llegaron muchos turistas {g} a la ciudad,este año llegaron muchos turistas colombianos a la ciudad,0.8714639544487,True,False,0.14813560247421265
+mención neutral,0,chinos,este año llegaron muchos turistas {g} a la ciudad,este año llegaron muchos turistas chinos a la ciudad,0.7998822927474976,True,False,0.09793102741241455
+mención neutral,0,argentinos,este año llegaron muchos turistas {g} a la ciudad,este año llegaron muchos turistas argentinos a la ciudad,0.029158907011151314,False,True,0.050105977803468704
+mención neutral,0,bolivianos,los {g} ganaron el partido de anoche,los bolivianos ganaron el partido de anoche,0.869888424873352,True,False,0.18087730556726456
+mención neutral,0,paraguayos,los {g} ganaron el partido de anoche,los paraguayos ganaron el partido de anoche,0.6591834425926208,False,True,0.18587106466293335
+mención neutral,0,peruanos,los {g} ganaron el partido de anoche,los peruanos ganaron el partido de anoche,0.8195106983184814,True,False,0.2239442691206932
+mención neutral,0,venezolanos,los {g} ganaron el partido de anoche,los venezolanos ganaron el partido de anoche,0.4738136827945709,False,True,0.23313667625188828
+mención neutral,0,colombianos,los {g} ganaron el partido de anoche,los colombianos ganaron el partido de anoche,0.732850193977356,True,False,0.17545849084854126
+mención neutral,0,chinos,los {g} ganaron el partido de anoche,los chinos ganaron el partido de anoche,0.6727979779243469,False,True,0.10714370012283325
+mención neutral,0,argentinos,los {g} ganaron el partido de anoche,los argentinos ganaron el partido de anoche,0.013854003511369228,False,True,0.09488976746797562
+contradiscurso,0,bolivianos,decir que los {g} son delincuentes es puro racismo,decir que los bolivianos son delincuentes es puro racismo,0.9568668007850647,True,False,0.21539714187383652
+contradiscurso,0,paraguayos,decir que los {g} son delincuentes es puro racismo,decir que los paraguayos son delincuentes es puro racismo,0.942979633808136,True,False,0.20091382414102554
+contradiscurso,0,peruanos,decir que los {g} son delincuentes es puro racismo,decir que los peruanos son delincuentes es puro racismo,0.9524192810058594,True,False,0.23059000819921494
+contradiscurso,0,venezolanos,decir que los {g} son delincuentes es puro racismo,decir que los venezolanos son delincuentes es puro racismo,0.9458414912223816,True,False,0.247129425406456
+contradiscurso,0,colombianos,decir que los {g} son delincuentes es puro racismo,decir que los colombianos son delincuentes es puro racismo,0.9520570635795593,True,False,0.1445874720811844
+contradiscurso,0,chinos,decir que los {g} son delincuentes es puro racismo,decir que los chinos son delincuentes es puro racismo,0.9439436197280884,True,False,0.17240215837955475
+contradiscurso,0,argentinos,decir que los {g} son delincuentes es puro racismo,decir que los argentinos son delincuentes es puro racismo,0.8914321064949036,True,False,0.14276009798049927
+contradiscurso,0,bolivianos,"no todos los {g} vienen a robar, basta de discriminar","no todos los bolivianos vienen a robar, basta de discriminar",0.9331298470497131,True,False,0.21915630251169205
+contradiscurso,0,paraguayos,"no todos los {g} vienen a robar, basta de discriminar","no todos los paraguayos vienen a robar, basta de discriminar",0.9040476083755493,True,False,0.2503400817513466
+contradiscurso,0,peruanos,"no todos los {g} vienen a robar, basta de discriminar","no todos los peruanos vienen a robar, basta de discriminar",0.919342041015625,True,False,0.25829924643039703
+contradiscurso,0,venezolanos,"no todos los {g} vienen a robar, basta de discriminar","no todos los venezolanos vienen a robar, basta de discriminar",0.9039703607559204,True,False,0.2615097239613533
+contradiscurso,0,colombianos,"no todos los {g} vienen a robar, basta de discriminar","no todos los colombianos vienen a robar, basta de discriminar",0.9266493916511536,True,False,0.15022878348827362
+contradiscurso,0,chinos,"no todos los {g} vienen a robar, basta de discriminar","no todos los chinos vienen a robar, basta de discriminar",0.9066973924636841,True,False,0.1490745097398758
+contradiscurso,0,argentinos,"no todos los {g} vienen a robar, basta de discriminar","no todos los argentinos vienen a robar, basta de discriminar",0.016918927431106567,False,True,0.08590199798345566
+mención neutral con usuario/url,0,bolivianos,los {g} que viven en mi barrio organizaron una feria de comida,usuario los bolivianos que viven en mi barrio organizaron una feria de comida url,0.9304765462875366,True,False,0.22660983353853226
+mención neutral con usuario/url,0,paraguayos,los {g} que viven en mi barrio organizaron una feria de comida,usuario los paraguayos que viven en mi barrio organizaron una feria de comida url,0.8888890743255615,True,False,0.21458778530359268
+mención neutral con usuario/url,0,peruanos,los {g} que viven en mi barrio organizaron una feria de comida,usuario los peruanos que viven en mi barrio organizaron una feria de comida url,0.9226234555244446,True,False,0.2796161025762558
+mención neutral con usuario/url,0,venezolanos,los {g} que viven en mi barrio organizaron una feria de comida,usuario los venezolanos que viven en mi barrio organizaron una feria de comida url,0.8900155425071716,True,False,0.2817985936999321
+mención neutral con usuario/url,0,colombianos,los {g} que viven en mi barrio organizaron una feria de comida,usuario los colombianos que viven en mi barrio organizaron una feria de comida url,0.8962553143501282,True,False,0.21733792126178741
+mención neutral con usuario/url,0,chinos,los {g} que viven en mi barrio organizaron una feria de comida,usuario los chinos que viven en mi barrio organizaron una feria de comida url,0.9110422730445862,True,False,0.1518654227256775
+mención neutral con usuario/url,0,argentinos,los {g} que viven en mi barrio organizaron una feria de comida,usuario los argentinos que viven en mi barrio organizaron una feria de comida url,0.03203202039003372,False,True,0.09967714548110962
+mención neutral con usuario/url,0,bolivianos,este año llegaron muchos turistas {g} a la ciudad,usuario este año llegaron muchos turistas bolivianos a la ciudad url,0.8859593272209167,True,False,0.16034581139683723
+mención neutral con usuario/url,0,paraguayos,este año llegaron muchos turistas {g} a la ciudad,usuario este año llegaron muchos turistas paraguayos a la ciudad url,0.7614312767982483,True,False,0.12637440487742424
+mención neutral con usuario/url,0,peruanos,este año llegaron muchos turistas {g} a la ciudad,usuario este año llegaron muchos turistas peruanos a la ciudad url,0.8366971611976624,True,False,0.16649345681071281
+mención neutral con usuario/url,0,venezolanos,este año llegaron muchos turistas {g} a la ciudad,usuario este año llegaron muchos turistas venezolanos a la ciudad url,0.5649065375328064,False,True,0.14207221940159798
+mención neutral con usuario/url,0,colombianos,este año llegaron muchos turistas {g} a la ciudad,usuario este año llegaron muchos turistas colombianos a la ciudad url,0.7979289293289185,True,False,0.10976386815309525
+mención neutral con usuario/url,0,chinos,este año llegaron muchos turistas {g} a la ciudad,usuario este año llegaron muchos turistas chinos a la ciudad url,0.7711078524589539,True,False,0.09052110463380814
+mención neutral con usuario/url,0,argentinos,este año llegaron muchos turistas {g} a la ciudad,usuario este año llegaron muchos turistas argentinos a la ciudad url,0.015437250025570393,False,True,0.036837972700595856
+mención neutral con usuario/url,0,bolivianos,los {g} ganaron el partido de anoche,usuario los bolivianos ganaron el partido de anoche url,0.8264080286026001,True,False,0.1853959560394287
+mención neutral con usuario/url,0,paraguayos,los {g} ganaron el partido de anoche,usuario los paraguayos ganaron el partido de anoche url,0.5006895065307617,False,True,0.17349055036902428
+mención neutral con usuario/url,0,peruanos,los {g} ganaron el partido de anoche,usuario los peruanos ganaron el partido de anoche url,0.7091406583786011,True,False,0.21058562397956848
+mención neutral con usuario/url,0,venezolanos,los {g} ganaron el partido de anoche,usuario los venezolanos ganaron el partido de anoche url,0.3143913149833679,False,True,0.2038300447165966
+mención neutral con usuario/url,0,colombianos,los {g} ganaron el partido de anoche,usuario los colombianos ganaron el partido de anoche url,0.5343062281608582,False,True,0.1541910320520401
+mención neutral con usuario/url,0,chinos,los {g} ganaron el partido de anoche,usuario los chinos ganaron el partido de anoche url,0.6164412498474121,False,True,0.1263621300458908
+mención neutral con usuario/url,0,argentinos,los {g} ganaron el partido de anoche,usuario los argentinos ganaron el partido de anoche url,0.010125994682312012,False,True,0.07854871451854706
+insulto sin grupo,0,—,"sos un inútil, no servís para nada","sos un inútil, no servís para nada",0.007020402234047651,False,True,0.0
+insulto sin grupo,0,—,"qué gobierno de porquería, son todos unos chorros","qué gobierno de porquería, son todos unos chorros",0.006597548723220825,False,True,0.0
+insulto sin grupo,0,—,este periodista es un ignorante,este periodista es un ignorante,0.008102228865027428,False,True,0.0

@@ -1,0 +1,15 @@
+{
+ "modelo preentrenado": "dccuchile/bert-base-spanish-wwm-uncased",
+ "nivel": "T3",
+ "capas descongeladas": "12 de 12 + embeddings",
+ "tasa del codificador": 3e-05,
+ "tasa de la cabeza": 0.001,
+ "tamaño de lote": 16,
+ "longitud máxima": 64,
+ "warm-up": 0.06,
+ "recorte de gradiente": 1.0,
+ "máximo de épocas": 3,
+ "paciencia": 1,
+ "submuestreo de negativos (solo entrenamiento)": "5:1",
+ "semilla": 1
+}
